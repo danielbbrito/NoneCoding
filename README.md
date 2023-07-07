@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Daniel!
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in all things software!
 - 📫 You can reach me on Instagram @dan.rbt
 
 <!---
